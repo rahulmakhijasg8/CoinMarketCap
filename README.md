@@ -1,9 +1,3 @@
-I have not used Celery as celery has been discontinued for windows. Using wsl to use celery would have been possible but due to time constraints, I could not do it.
-I tried oher possible solutions I found on the web but none of them worked.
-I have not used any tables, as I would have used them if their was a job id after using celery.
-So, in the form where the tables are to be uploaded, I will be uploading the output file as it is a required field in the form.
-
-
 Input and Output on Postman:
 
 ![Screenshot 2024-06-09 002131](https://github.com/rahulmakhijasg8/CoinMarketCap/assets/86805423/6c433e52-108f-4add-9f5c-9acdc03deeef)
